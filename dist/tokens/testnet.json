@@ -214,7 +214,7 @@
             "name": "AlphBanX",
             "symbol": "ABX",
             "decimals": 9,
-            "description": "AlphBanX reward token",
+            "description": "AlphBanX is a decentralized lending platform that allows you to borrow AlphBanX Dollars using ALPH as collateral. Choose your own interest rate and bet on liquidations - earning yield from borrowing fees and from liquidated loans.",
             "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABX.png"
         },
         {
