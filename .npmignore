@@ -1,9 +1,6 @@
 node_modules/
 
-# Source files
-lib/
-logos/
-tokens/
+
 
 # Dotfiles
 .vscode
